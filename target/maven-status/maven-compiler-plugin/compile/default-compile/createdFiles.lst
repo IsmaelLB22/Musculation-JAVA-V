@@ -1,0 +1,16 @@
+be\helb\security\AuthorizationFilter.class
+be\helb\security\ConfigPassword.class
+be\helb\DAO\ExerciceDao.class
+be\helb\controller\UserController.class
+be\helb\MusculationApplication.class
+be\helb\model\User.class
+be\helb\security\AuthenticationFilter.class
+be\helb\service\UserDetailServiceImpl.class
+be\helb\model\Workout.class
+be\helb\model\Exercice.class
+be\helb\model\MyUser.class
+be\helb\security\WebSecurityConfiguration.class
+be\helb\DAO\UserDao.class
+be\helb\service\SwaggerConfigService.class
+be\helb\service\MusculationService.class
+be\helb\controller\Controller.class

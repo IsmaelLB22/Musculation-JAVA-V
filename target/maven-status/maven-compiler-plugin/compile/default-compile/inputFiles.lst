@@ -1,0 +1,16 @@
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\controller\Controller.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\model\MyUser.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\model\User.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\MusculationApplication.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\model\Workout.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\service\MusculationService.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\security\WebSecurityConfiguration.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\service\SwaggerConfigService.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\controller\UserController.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\DAO\UserDao.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\security\ConfigPassword.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\model\Exercice.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\security\AuthenticationFilter.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\DAO\ExerciceDao.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\security\AuthorizationFilter.java
+C:\Users\DIC\Documents\GitHub\Musculation\src\main\java\be.helb\service\UserDetailServiceImpl.java
