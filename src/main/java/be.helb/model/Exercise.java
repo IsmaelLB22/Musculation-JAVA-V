@@ -2,24 +2,23 @@ package be.helb.model;
 
 import javax.persistence.*;
 import java.io.Serializable;
-import java.time.LocalDate;
 
 @Entity
-public class Exercice implements Serializable {
+public class Exercise implements Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     @Column(name = "name")
     private String name;
-    @Column(name = "unit")
-    private int unit;
+    @Column(name = "description")
+    private String description;
 
-    public Exercice(String name) {
+    public Exercise(String name) {
         this.name = name;
     }
 
-    public Exercice() {
+    public Exercise() {
     }
 
     public void setId(Long id) {
@@ -37,12 +36,11 @@ public class Exercice implements Serializable {
         this.name = name;
     }
 
-    public double getUnits() {
-        return unit;
+    public String getDescription() {
+        return description;
     }
 
-    public void setUnits(int unit) {
-        this.unit = unit;
+    public void setDescription(String description) {
+        this.description = description;
     }
-
 }

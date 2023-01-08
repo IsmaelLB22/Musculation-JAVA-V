@@ -29,10 +29,10 @@ public class SwaggerConfigService {
     {
         return new ApiInfo(
                 "Musculation ",
-                "Api description",
+                "Api APP JAVA V",
                 "1.0",
                 "Terms of service",
-                new Contact("John Doe", "facebook.com", "test@gmail.com"),
+                new Contact("Ismael", "google.com", "test@gmail.com"),
                 "License of API",
                 "API license URL",
                 Collections.emptyList()
